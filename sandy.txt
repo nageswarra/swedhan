@@ -1,0 +1,12 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 142F-4A40
+
+ Directory of C:\Users\swedhan\Desktop\Git\myfolder
+
+12/21/2017  05:18 PM    <DIR>          .
+12/21/2017  05:18 PM    <DIR>          ..
+12/21/2017  04:36 PM               409 index.html
+12/21/2017  05:18 PM                 0 sandy.txt
+12/21/2017  04:35 PM               366 text.txt
+               3 File(s)            775 bytes
+               2 Dir(s)  394,918,633,472 bytes free
